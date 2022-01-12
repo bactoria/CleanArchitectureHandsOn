@@ -2,7 +2,10 @@
 
 위 저장소와의 차이는 다음과 같다.
 
-|d|기존|이거| |:--:|:--:|:--:| |구성|hexagonal|hexagonal packaging <br> layered packaging <br> featured packaging| |language|java|kotlin|
+||위 저장소|이거|
+|:--:|:--:|:--|
+|구성|hexagonal|layered packaging <br> featured packaging <br>hexagonal packaging|
+|lang|java|kotlin|
 
 kotlin 은 `package-private` 를 지원하지 않기에, java로 대체할 수도 있음.
 
