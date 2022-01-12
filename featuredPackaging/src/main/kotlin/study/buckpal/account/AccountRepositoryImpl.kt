@@ -1,4 +1,4 @@
-package me.bactoria.study.buckpal.persistence
+package me.bactoria.study.buckpal.account.adapter.out.persistence
 
 class AccountRepositoryImpl {
 }

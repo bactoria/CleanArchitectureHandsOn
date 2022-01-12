@@ -1,4 +1,4 @@
-package me.bactoria.study.buckpal.domain
+package me.bactoria.study.buckpal.account.domain
 
 class Account {
 }
