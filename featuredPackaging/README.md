@@ -24,4 +24,4 @@
 <br>
 
 - [계층으로 패키지 구성하기 (Layered)](../layeredPackaging)
-- [헥사고날 패키지 구성하기 - 아키텍처적으로 표현력 있는 패키지 구조!](../featuredPackaging)
+- [헥사고날 패키지 구성하기 - 아키텍처적으로 표현력 있는 패키지 구조!](../hexagonalPackaging)
