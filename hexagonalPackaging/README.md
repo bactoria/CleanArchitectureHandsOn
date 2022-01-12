@@ -1,5 +1,7 @@
 ### 3. 헥사고날 패키지 구성하기 - 아키텍처적으로 표현력 있는 패키지 구조!
 
+<img width="45%" alt="CleanShot 2022-01-13 at 04 12 02@2x" src="https://user-images.githubusercontent.com/25674959/149206317-5c9db0ed-8e42-425c-b7b3-013a7a989cdc.png">
+
 코드에서 아키텍처의 특정 요소를 찾으려면 이제 아키텍처 다이어그램의 박스 이름을 따라 패키지 구조를 탐색하면 된다.
 eg. 수정할 기능은 어디에 있는가? 계좌 저장하는 클라이언트 코드는 어디에있는가? account/adapter/out/~Adapter !
 

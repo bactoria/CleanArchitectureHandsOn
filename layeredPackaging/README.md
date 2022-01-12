@@ -1,5 +1,7 @@
 ### 계층으로 패키지 구성하기 (Layered)
 
+<img width="35%" alt="CleanShot 2022-01-13 at 04 13 37@2x" src="https://user-images.githubusercontent.com/25674959/149206481-0281e939-ce33-49e7-a068-f984884113ac.png">
+
 이 패키징 구조가 최적이 아닌 3가지 이유
 
 1. 애플리케이션의 기능 조각이나 특성을 구분짓는 패키지 경계가 없다.

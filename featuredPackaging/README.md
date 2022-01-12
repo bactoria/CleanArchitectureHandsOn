@@ -1,5 +1,8 @@
 ### 기능으로 패키지 구성하기 (Featured)
 
+<img width="35%" alt="CleanShot 2022-01-13 at 04 10 55@2x" src="https://user-images.githubusercontent.com/25674959/149206150-b79715c2-b146-4210-aa21-9cc16d7e86da.png">
+
+
 **계층 패키지보다 장점**
 1. 패키지 외부에서 접근되면 안되는 클래스들에 대해 package-private 접근 수준을 이용해 패키지 간의 경계를 강화할 수 있다.
    -> 어느정도 경계를 무너트리는 것을 막아준다. 다른 기능의 패키지에서는 접근이 안되기 때문에.
@@ -19,5 +22,6 @@
 
 
 <br>
+
 - [계층으로 패키지 구성하기 (Layered)](../layeredPackaging)
 - [헥사고날 패키지 구성하기 - 아키텍처적으로 표현력 있는 패키지 구조!](../featuredPackaging)
