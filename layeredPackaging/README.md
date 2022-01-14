@@ -1,6 +1,6 @@
 ### 계층으로 패키지 구성하기 (Layered)
 
-<img width="35%" alt="CleanShot 2022-01-13 at 04 13 37@2x" src="https://user-images.githubusercontent.com/25674959/149206481-0281e939-ce33-49e7-a068-f984884113ac.png">
+<img width="35%" alt="CleanShot 2022-01-15 at 01 30 34@2x" src="https://user-images.githubusercontent.com/25674959/149550706-8d4bdfb6-9416-4722-9957-c9ad7745f572.png">
 
 이 패키징 구조가 최적이 아닌 3가지 이유
 
