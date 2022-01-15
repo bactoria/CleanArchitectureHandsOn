@@ -18,6 +18,7 @@ subprojects {
 		plugin("org.springframework.boot")
 		plugin("org.jetbrains.kotlin.plugin.spring")
 		plugin("org.jetbrains.kotlin.jvm")
+		plugin("org.jetbrains.kotlin.plugin.allopen")
 	}
 
 	dependencies {
@@ -41,4 +42,8 @@ subprojects {
 	tasks.withType<Test> {
 		useJUnitPlatform()
 	}
+
+	allOpen {
+		annotation("javax.transaction.Transactional")
+	}	
 }
